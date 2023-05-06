@@ -9,7 +9,6 @@ def function_generic_name(parametro):
 
 function_generic_name("isso é um parametro")
         
-
 def caalculate_numbers(n1,n2):
         result = n1 + n2
         return result
