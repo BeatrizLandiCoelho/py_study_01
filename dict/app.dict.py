@@ -22,4 +22,4 @@ print(months["dez"])
 print(months.get("nov"))
 
 #you can pass a second param, the secont param will be the default in case the firt one arent found
-print(months.get("abc","default"))
+print(months.get("abc","default "))
