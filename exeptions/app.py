@@ -15,3 +15,4 @@ except:
 #finaly fecha o arquivo
 finally:
     print("sempre executa")
+
